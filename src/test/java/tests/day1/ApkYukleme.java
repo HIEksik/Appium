@@ -30,7 +30,7 @@ public class ApkYukleme {
         capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME,"UiAutomator2");
 
 
-        capabilities.setCapability(MobileCapabilityType.APP,"C:\\Users\\LENOVO\\OneDrive\\Masaüstü\\Git\\Yeni_Proje\\Appium_T130\\Apps\\Kiwi.com - Book Cheap Flights_2023.14.0_Apkpure (1).apk");
+        capabilities.setCapability(MobileCapabilityType.APP,"C:\\Users\\LENOVO\\OneDrive\\Masaüstü\\Git\\Yeni_Proje\\Appium_T130\\Apps\\all-currency-converter-3-9-0 (1).apk");
         // Uygulamayı yüklemek için kullanılır .. Eger yüklü degilse kontrol eder yükler .. yüklü ise yüklü olup olmadıgını kontrol eder ve yüklüyse uygulamayı açar
 
 
