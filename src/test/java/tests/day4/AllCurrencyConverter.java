@@ -51,6 +51,13 @@ public class AllCurrencyConverter {
 // Ardindan zloty nin tl karsiligi olan tl degeri kaydedilir
 // kullaniciya sms olarak bildirilir
 
+        String tryDeger=page.tryText.getText();
+        driver.sendSMS("5555555555","Zloty nin Try karsiligi: "+tryDeger);
+
+
+
+
+
 
 
 

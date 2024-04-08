@@ -25,4 +25,7 @@ public class AllCurrencyApp {
 
     @FindBy(id = "com.smartwho.SmartAllCurrencyConverter:id/b0")
     public WebElement sisift;
+
+    @FindBy(xpath = "//*[@resource-id='com.smartwho.SmartAllCurrencyConverter:id/EditTextCurrencyB']")
+    public WebElement tryText;
 }
